@@ -3,7 +3,7 @@ package com.chocs;
 import javax.swing.JFrame;
 
 class CalculatorPage extends JFrame {
-	public CalculatorPage() {
+    public CalculatorPage() {
         this.pack();
         this.setTitle("Calculator");
         this.setResizable(false);
